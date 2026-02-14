@@ -1,0 +1,34 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#020617"/>
+  <g opacity="0.4">
+    <path d="M0 80.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 160.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 240.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 320.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 400.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 480.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 560.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 640.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 720.5H1440" stroke="#1E293B" stroke-width="1"/>
+    <path d="M0 800.5H1440" stroke="#1E293B" stroke-width="1"/>
+  </g>
+  <g opacity="0.35">
+    <path d="M120.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M240.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M360.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M480.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M600.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M720.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M840.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M960.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M1080.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M1200.5 0V900" stroke="#1E293B" stroke-width="1"/>
+    <path d="M1320.5 0V900" stroke="#1E293B" stroke-width="1"/>
+  </g>
+  <radialGradient id="radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 120) rotate(60) scale(520 520)">
+    <stop stop-color="#38BDF8" stop-opacity="0.6"/>
+    <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+  </radialGradient>
+  <circle cx="240" cy="120" r="520" fill="url(#radial)"/>
+</svg>
+
